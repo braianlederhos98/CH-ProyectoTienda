@@ -1,0 +1,43 @@
+
+[
+    {
+        "id": 0,
+        "nombre": "Bulma",
+        "precio": 2500
+    },
+    {
+        "id": 1,
+        "nombre": "VueJS",
+        "precio": 2850
+    },
+    {
+        "id": 2,
+        "nombre": "Angular",
+        "precio": 2500
+    },
+    {
+        "id": 3,
+        "nombre": "React",
+        "precio": 2850
+    },
+    {
+        "id": 4,
+        "nombre": "Redux",
+        "precio": 2500
+    },
+    {
+        "id": 5,
+        "nombre": "NodeJS",
+        "precio": 2850
+    },
+    {
+        "id": 6,
+        "nombre": "Sass",
+        "precio": 2500
+    },
+    {
+        "id": 7,
+        "nombre": "HTML5",
+        "precio": 2850
+    }
+]
